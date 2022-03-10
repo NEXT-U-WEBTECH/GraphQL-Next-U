@@ -9,28 +9,20 @@ command = [
     "-i"
 ]
 
-[nix]
-channel = "stable-21_11"
-
-[env]
-XDG_CONFIG_HOME = "/home/runner/.config"
-
 [packager]
 language = "nodejs"
 
-  [packager.features]
-  packageSearch = true
-  guessImports = true
-  enabledForHosting = false
-
-[unitTest]
-language = "nodejs"
+[packager.features]
+packageSearch = true
+guessImports = true
 
 [languages.javascript]
-pattern = "**/{*.js,*.jsx,*.ts,*.tsx}"
+pattern = "**/*.js"
+staynx = "javascript"
 
-  [languages.javascript.languageServer]
-  start = [ "typescript-language-server", "--stdio" ]
+[languages.javascript.languageServer]
+start = [ "typescript-language-server", "--stdio" ]
+
 
 [debugger]
 support = true
