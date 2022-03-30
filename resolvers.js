@@ -26,5 +26,26 @@ const College = {
    }
 }
 
+const Mutation = {
+   returnStringByCreateStudent:(root,args,context,info) => {
+      return  db.students.create({collegeId:args.collegeId,
+      firstName:args.firstName,
+      lastName:args.lastName,
+      email:args.email,
+      password:args.password,
+      age:args.age,})
+      
+   },
+   returnObjectByCreateStudent:(root,args,context,info) => {
+      const id =  db.students.create({collegeId:args.collegeId,
+      firstName:args.firstName,
+      lastName:args.lastName,
+      email:args.email,
+      password:args.password,
+      age:args.age,})
+     return db.students.get(id)
+   }
+}
 
-module.exports = {Query,Student, College}
+
+module.exports = {Query,Student, College,Mutation}
