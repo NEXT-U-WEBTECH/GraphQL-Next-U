@@ -6,7 +6,10 @@ const Query = {
    studentById:(root,args,context,info) => {
       //args will contain parameter passed in query
       return db.students.get(args.id);
-   }
+   },
+  setFavouriteColor:(root,args) => {
+   return  "Your Fav Color is :"+args.color;
+  }
 }  
 
 const Student = {
