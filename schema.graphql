@@ -26,9 +26,20 @@ type College {
    studentsByCollge:[Student]
 }
 
+
+
 type Mutation {
-   returnStringByCreateStudent(collegeId:ID,firstName:String,lastName:String,email:String,password:String,age:Int):String,
-   returnObjectByCreateStudent(collegeId:ID,firstName:String,lastName:String,email:String,password:String,age:Int):Student
+   returnStringByCreateStudent(input:StudentInput!):String,
+   returnObjectByCreateStudent(input:StudentInput!):Student
+}
+
+input StudentInput {
+  collegeId: ID!
+  firstName: String!
+  lastName: String!
+  email: String!
+  password: String!
+  age:Int
 }
 
 
