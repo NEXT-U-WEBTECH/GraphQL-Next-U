@@ -78,7 +78,16 @@ const Mutation = {
         });
       return db.students.get(args.id)       
       
-   }
+   },
+   returnBooleanDeleteDataSudentById:(root,args,context,info) => {
+      const result = db.students.delete(args.id); // return null
+     /*if(result){
+       return true;
+     }else{
+       return false;
+     }*/
+     return true
+   },
 }
 
 
