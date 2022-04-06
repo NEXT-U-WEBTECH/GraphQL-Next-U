@@ -8,6 +8,7 @@ type Query {
    studentById(id:ID!):Student,
    college : [College],
    setFavouriteColor(color:ColorType):String
+   
 }
 
 type Student {
@@ -30,7 +31,9 @@ type College {
 
 type Mutation {
    returnStringByCreateStudent(input:StudentInput!):String,
-   returnObjectByCreateStudent(input:StudentInput!):Student
+   returnObjectByCreateStudent(input:StudentInput!):Student,
+   returnStringUpdateDataSudentById(id:ID!,input:StudentInput!):String
+   returnStudentUpdateDataSudentById(id:ID!,input:StudentInput!):Student
 }
 
 input StudentInput {

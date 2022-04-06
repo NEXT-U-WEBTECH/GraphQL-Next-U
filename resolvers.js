@@ -47,6 +47,37 @@ const Mutation = {
       password:args.input.password,
       age:args.input.age,})
      return db.students.get(id)
+   },
+   returnStringUpdateDataSudentById:(root,args,context,info) => {
+      return args.id+args.input.firstName
+   },
+   returnStudentUpdateDataSudentById:(root,args,context,info) => {
+       const objectStudent = db.students.get(args.id);
+       if(args.input.firstName!=''){
+
+         objectStudent.firstName = args.input.firstName;
+       }
+
+       if(args.input.email!=''){
+
+         objectStudent.email = args.input.email;
+       }
+
+       if(args.input.age!=''){
+
+         objectStudent.age = args.input.age;
+       }    
+       
+      const result = db.students.update(
+        {
+          id: args.id,
+          firstName:objectStudent.firstName,
+          email: objectStudent.email,
+          age: objectStudent.age,
+          lastName: objectStudent.lastName
+        });
+      return db.students.get(args.id)       
+      
    }
 }
 
