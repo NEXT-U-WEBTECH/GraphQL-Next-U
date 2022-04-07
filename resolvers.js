@@ -30,7 +30,29 @@ const College = {
 }
 
 const Mutation = {
+  
    returnStringByCreateStudent:(root,args,context,info) => {
+     
+      const {email,firstName,password} = args.input;
+
+      const emailExpression = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+      
+      const isValidEmail =  emailExpression.test(String(email).toLowerCase())
+     
+      if(!isValidEmail){
+
+        throw new Error("Adresse mail non valide ")
+      }     
+
+      if(firstName.length > 15){
+
+        throw new Error("firstName doit comporter moins de 15 caractères")        
+      }      
+
+      if(password.length < 8 ){
+          throw new Error("le mot de passe doit comporter au moins 8 caractères")
+      }    
+      
       return  db.students.create({collegeId:args.input.collegeId,
       firstName:args.input.firstName,
       lastName:args.input.lastName,
