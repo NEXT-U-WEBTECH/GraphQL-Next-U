@@ -1,2 +1,0 @@
-# GraphQL-Next-U
- 
