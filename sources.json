@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "token": "799f670b-0d24-4797-a910-bc27c963adc2",
+        "nom": "Lepoint.fr",
+        "url": "https:\/\/www.lepoint.fr",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "2",
+        "token": "73ac5dad-31aa-4a1f-a077-192041a86908",
+        "nom": "Euronews",
+        "url": "https:\/\/fr.euronews.com",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "3",
+        "token": "2cdeff1d-a9ca-46e2-a21d-4b052a2878d2",
+        "nom": "FranceInfos",
+        "url": "https:\/\/www.francetvinfo.fr",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "4",
+        "token": "05234b01-537d-4d69-ae5e-652e036d5824",
+        "nom": "LaDepeche",
+        "url": "https:\/\/www.ladepeche.fr",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "5",
+        "token": "81dd075f-3bc7-44ed-aaae-1e734915b9c1",
+        "nom": "Le360.ma",
+        "url": "https:\/\/fr.le360.ma",
+        "token_pays": "rh2pu7CKX8L4svQKVBLk1PxuRZZS6rwX7YMZtO8RmjjcdxlyyugXHdPYBeg7",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "6",
+        "token": "62986a64-a28d-4f5b-b78f-bc61d3409077",
+        "nom": "Nouvelobs.com",
+        "url": "https:\/\/www.nouvelobs.com",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "7",
+        "token": "082af716-b979-4faa-b5f9-c85fe40d135f",
+        "nom": "Lefigaro.fr",
+        "url": "https:\/\/www.lefigaro.fr",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:28"
+    },
+    {
+        "id": "8",
+        "token": "2a5d4d64-707f-45aa-86d4-9075d40be0c5",
+        "nom": "20minutes.fr",
+        "url": "https:\/\/www.20minutes.fr",
+        "token_pays": "R1NVFxDIPrgOrAYihEELZggetc4e9thqSsLXpN3CEIPtIdbnfdzCRfgJRJno",
+        "token_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-30 08:46:29"
+    }
+]

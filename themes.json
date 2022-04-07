@@ -1,0 +1,234 @@
+[
+    {
+        "id": "1",
+        "token": "7cc4e0f0-1afd-47fc-a441-557770852aa7",
+        "nom": "MONDE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:43",
+        "active": "1"
+    },
+    {
+        "id": "2",
+        "token": "09f1b818-fbb7-45af-85b7-2b2f622454be",
+        "nom": "POLITIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:43",
+        "active": "0"
+    },
+    {
+        "id": "3",
+        "token": "5f11f66b-4454-4b61-98d7-621c19297404",
+        "nom": "FAITS-DIVERS",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "4",
+        "token": "b3f5a032-b16a-4714-abe0-ae647a8d5f7a",
+        "nom": "SANTE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "5",
+        "token": "c3b42900-9c67-4f96-9cf3-e18b9180a709",
+        "nom": "SOCIETE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "6",
+        "token": "7c300962-51ce-481a-b39e-1399ea0032b7",
+        "nom": "ECONOMIE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "7",
+        "token": "91bfd49f-28b8-457a-bf22-a6546527db40",
+        "nom": "SECURITE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "8",
+        "token": "726af902-1465-4d4c-a11d-95b8469eca95",
+        "nom": "JUSTICE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "9",
+        "token": "04076845-37b1-4bc1-8dcb-72dbf41726f8",
+        "nom": "SCIENCE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "10",
+        "token": "d83c9d8c-dc50-4fa9-a1ab-f267c8295f92",
+        "nom": "INTERNET",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "11",
+        "token": "af069b2f-8ef1-4868-8d58-a2e3240f00a4",
+        "nom": "EDUCATION",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "12",
+        "token": "4ebab9b0-f794-4b09-81bc-1ccbeb8db941",
+        "nom": "SECURITE INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "13",
+        "token": "50a676e1-8bf1-48ff-9c5e-e13178cb9341",
+        "nom": "CYBERATTAQUE INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "14",
+        "token": "d73af861-8899-4611-a8f5-1e9fae42f079",
+        "nom": "RANSOMWARE INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "15",
+        "token": "72321965-a18c-47aa-bdbf-95853053445b",
+        "nom": "VIRUS INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "16",
+        "token": "2623c149-0295-40a6-9507-951fb10cee70",
+        "nom": "WINDOWS-10",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "17",
+        "token": "5841d511-f89e-441a-a23c-31e7333edcd3",
+        "nom": "SYSTEME-EXPLOITATION INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "18",
+        "token": "5de65e89-e2f8-4d4a-8ce6-bd5f6d0562c0",
+        "nom": "LINUX INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "19",
+        "token": "b0f8c07b-4c48-456c-9ca6-b42f9f8752d4",
+        "nom": "NAVIGATEUR INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "20",
+        "token": "641fb726-6d51-4973-89a0-3f0487b4a0ca",
+        "nom": "ORDINATEUR INFORMATIQUE",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "21",
+        "token": "788a1c3e-d975-45d8-866c-1a4e325f96b3",
+        "nom": "TECHNOS",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "22",
+        "token": "2eece1b4-2f1b-428d-8458-4c62286b3e1b",
+        "nom": "Politique, Droits",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "23",
+        "token": "112d84ad-dc4c-45a0-b002-62787a657c7f",
+        "nom": "Science, recherche",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "24",
+        "token": "7a6c77f7-3a40-4667-9870-c6454a91a4fd",
+        "nom": "Culture, médias",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "25",
+        "token": "1d25695f-dadf-4331-a809-7128597cc63d",
+        "nom": "Télécoms",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "26",
+        "token": "ffd680fc-5cca-434c-a277-2e9db6de4ace",
+        "nom": "Buzz, société",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "27",
+        "token": "2fb8e7b9-64a5-47f6-8bbd-0af38a4766fd",
+        "nom": "Jeux",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "28",
+        "token": "c4c8a782-bd3a-4392-b781-2c90d1bf8c65",
+        "nom": "Produits",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    },
+    {
+        "id": "29",
+        "token": "95b3e991-bcba-4240-8216-28e022a4bc18",
+        "nom": "Applis, Logiciels",
+        "code_langue": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "created_at": "2021-03-29 18:53:44",
+        "active": "0"
+    }
+]

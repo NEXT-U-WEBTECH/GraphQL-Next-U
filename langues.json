@@ -1,0 +1,1685 @@
+[
+    {
+        "id": "1",
+        "token": "4567b41d-5a0e-4713-ae24-a818749af17b",
+        "nom_fr": "Afar",
+        "nom_eng": "Afar",
+        "code_iso": "aa",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "2",
+        "token": "6bbfe20f-0a52-4a1b-9ea3-4de6fd1bd80f",
+        "nom_fr": "Abkhaze",
+        "nom_eng": "Abkhazian",
+        "code_iso": "ab",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "3",
+        "token": "0ab1c2f1-fafb-4d5c-81f6-e9780bc405e4",
+        "nom_fr": "Avestique",
+        "nom_eng": "Avestan",
+        "code_iso": "ae",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "4",
+        "token": "a9f72dea-ab98-4475-9d61-cab7eb9ffc6b",
+        "nom_fr": "Afrikaans",
+        "nom_eng": "Afrikaans",
+        "code_iso": "af",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "5",
+        "token": "a76bcc57-b19b-4e89-9552-73d948528ab2",
+        "nom_fr": "Akan",
+        "nom_eng": "Akan",
+        "code_iso": "ak",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "6",
+        "token": "6be9c31f-07fc-4ddf-b3c3-5c515ee6a10d",
+        "nom_fr": "Amharique",
+        "nom_eng": "Amharic",
+        "code_iso": "am",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "7",
+        "token": "fef72c77-53ae-42fd-aa37-695489f52c38",
+        "nom_fr": "Aragonais",
+        "nom_eng": "Aragonese",
+        "code_iso": "an",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "8",
+        "token": "bb43728b-402b-49d2-8761-98ef08927254",
+        "nom_fr": "Arabe",
+        "nom_eng": "Arabic",
+        "code_iso": "ar",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "9",
+        "token": "cc0fe30b-092b-42ca-863a-887191eb25f6",
+        "nom_fr": "Assamais",
+        "nom_eng": "Assamese",
+        "code_iso": "as",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "10",
+        "token": "2f891d5f-1f4f-4767-b167-583cd5e6c154",
+        "nom_fr": "Avar",
+        "nom_eng": "Avaric",
+        "code_iso": "av",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "11",
+        "token": "27981d50-d512-456b-bf81-20c86823454f",
+        "nom_fr": "Aymara",
+        "nom_eng": "Aymara",
+        "code_iso": "ay",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "12",
+        "token": "d88cef66-1210-4b38-a036-c9f0e7f21167",
+        "nom_fr": "Azéri",
+        "nom_eng": "Azerbaijani",
+        "code_iso": "az",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "13",
+        "token": "56565519-5572-4db9-8384-61b3d212f4c3",
+        "nom_fr": "Bachkir",
+        "nom_eng": "Bashkir",
+        "code_iso": "ba",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "14",
+        "token": "27eb4c3c-245a-4f51-9fba-3529eb07ba36",
+        "nom_fr": "Biélorusse",
+        "nom_eng": "Belarusian",
+        "code_iso": "be",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "15",
+        "token": "0a472e47-8e3c-406f-89cd-87e70202c807",
+        "nom_fr": "Bulgare",
+        "nom_eng": "Bulgarian",
+        "code_iso": "bg",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "16",
+        "token": "43186eb7-bfe1-48b0-90d3-4fe99cf1cd2e",
+        "nom_fr": "Bihari",
+        "nom_eng": "Bihari",
+        "code_iso": "bh",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "17",
+        "token": "808f275b-bfe1-415d-a577-eb50779b0bd0",
+        "nom_fr": "Bichelamar",
+        "nom_eng": "Bislama",
+        "code_iso": "bi",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "18",
+        "token": "b148c039-4dbd-434d-be54-13f91730d460",
+        "nom_fr": "Bambara",
+        "nom_eng": "Bambara",
+        "code_iso": "bm",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "19",
+        "token": "34dc6f9c-2f9f-479f-9a3b-843ea8a2fcd5",
+        "nom_fr": "Bengali",
+        "nom_eng": "Bengali",
+        "code_iso": "bn",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "20",
+        "token": "3612c8eb-c211-41ef-a464-f1d078b8a77b",
+        "nom_fr": "Tibétain",
+        "nom_eng": "Tibetan",
+        "code_iso": "bo",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "21",
+        "token": "7825d78b-bd35-49a3-b2a0-adf4bd5e9e68",
+        "nom_fr": "Breton",
+        "nom_eng": "Breton",
+        "code_iso": "br",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "22",
+        "token": "a5eb4187-75bf-483c-b1e9-570ef7a566b6",
+        "nom_fr": "Bosnien",
+        "nom_eng": "Bosnian",
+        "code_iso": "bs",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "23",
+        "token": "924dc154-570d-48a4-a113-bee5937faeec",
+        "nom_fr": "Catalan",
+        "nom_eng": "Catalan",
+        "code_iso": "ca",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "24",
+        "token": "76f381d7-4999-414f-89ee-a796c85f1d3d",
+        "nom_fr": "Tchétchène",
+        "nom_eng": "Chechen",
+        "code_iso": "ce",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "25",
+        "token": "f9b3d071-19b0-4160-81d9-6d8369cc2fdc",
+        "nom_fr": "Chamorro",
+        "nom_eng": "Chamorro",
+        "code_iso": "ch",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "26",
+        "token": "3f0c6dff-7ec6-4b62-a07c-c5fef0415acc",
+        "nom_fr": "Corse",
+        "nom_eng": "Corsican",
+        "code_iso": "co",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "27",
+        "token": "5ed605c1-dba0-4e9c-a6f1-e8de77e96f55",
+        "nom_fr": "Cri",
+        "nom_eng": "Cree",
+        "code_iso": "cr",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "28",
+        "token": "930b2e80-db81-47af-8e3c-0b576cfa6b90",
+        "nom_fr": "Tchèque",
+        "nom_eng": "Czech",
+        "code_iso": "cs",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "29",
+        "token": "4b8bdd49-5500-4e67-a394-040fee6c9398",
+        "nom_fr": "Vieux-slave",
+        "nom_eng": "Old Church Slavonic",
+        "code_iso": "cu",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "30",
+        "token": "d348c7d0-8edd-4716-8baf-e7776f4bfd6d",
+        "nom_fr": "Tchouvache",
+        "nom_eng": "Chuvash",
+        "code_iso": "cv",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "31",
+        "token": "f6c50d73-523a-4b85-a2f3-cd4af50a7c10",
+        "nom_fr": "Gallois",
+        "nom_eng": "Welsh",
+        "code_iso": "cy",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "32",
+        "token": "693e0350-7dab-4cab-830c-1f4706253a83",
+        "nom_fr": "Danois",
+        "nom_eng": "Danish",
+        "code_iso": "da",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "33",
+        "token": "c1871913-5d08-42e9-82eb-62eba9543176",
+        "nom_fr": "Allemand",
+        "nom_eng": "German",
+        "code_iso": "de",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "34",
+        "token": "49d5fbd0-2c10-4487-b447-feb979294c67",
+        "nom_fr": "Maldivien",
+        "nom_eng": "Divehi",
+        "code_iso": "dv",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "35",
+        "token": "291a587b-d521-4426-917e-c55b97596c74",
+        "nom_fr": "Dzongkha",
+        "nom_eng": "Dzongkha",
+        "code_iso": "dz",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "36",
+        "token": "15197592-dd06-413c-be5f-68201ed43c90",
+        "nom_fr": "Ewe",
+        "nom_eng": "Ewe",
+        "code_iso": "ee",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "37",
+        "token": "4fb5365c-a984-4d31-8e07-a4f3ce583ef1",
+        "nom_fr": "Grec moderne",
+        "nom_eng": "Greek",
+        "code_iso": "el",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "38",
+        "token": "f4d61dd2-fd2c-4873-bf0c-633151b1cf78",
+        "nom_fr": "Anglais",
+        "nom_eng": "English",
+        "code_iso": "en",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "39",
+        "token": "93dbec68-2f92-420c-9f31-3d42adac0e78",
+        "nom_fr": "Espéranto",
+        "nom_eng": "Esperanto",
+        "code_iso": "eo",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "40",
+        "token": "22e2cf87-6663-43bf-af34-60ccba926180",
+        "nom_fr": "Espagnol",
+        "nom_eng": "Spanish",
+        "code_iso": "es",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "41",
+        "token": "203fe97c-4fab-42ea-af6f-ef70c6f924a2",
+        "nom_fr": "Estonien",
+        "nom_eng": "Estonian",
+        "code_iso": "et",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "42",
+        "token": "eb5f363f-66eb-46a0-bf10-32d1c4b92146",
+        "nom_fr": "Basque",
+        "nom_eng": "Basque",
+        "code_iso": "eu",
+        "created_at": "2021-03-29 10:36:52",
+        "active": "0"
+    },
+    {
+        "id": "43",
+        "token": "ab8efc2a-81fc-4e85-b88d-6bda7fda2574",
+        "nom_fr": "Persan",
+        "nom_eng": "Persian",
+        "code_iso": "fa",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "44",
+        "token": "1c71454c-7a29-47c6-9ace-f0befac105b0",
+        "nom_fr": "Peul",
+        "nom_eng": "Fulah",
+        "code_iso": "ff",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "45",
+        "token": "0143a1de-3271-4e53-a690-08f40167c678",
+        "nom_fr": "Finnois",
+        "nom_eng": "Finnish",
+        "code_iso": "fi",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "46",
+        "token": "39996d51-86cc-485b-8b35-288fe5794efa",
+        "nom_fr": "Fidjien",
+        "nom_eng": "Fijian",
+        "code_iso": "fj",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "47",
+        "token": "c36166fe-c67c-4873-be94-0b865535ef53",
+        "nom_fr": "Féroïen",
+        "nom_eng": "Faroese",
+        "code_iso": "fo",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "48",
+        "token": "957f729e-ac47-4000-b38d-221a1c7bb699",
+        "nom_fr": "Français",
+        "nom_eng": "French",
+        "code_iso": "fr",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "1"
+    },
+    {
+        "id": "49",
+        "token": "6a764df0-7a5a-411d-8448-668efb541af7",
+        "nom_fr": "Frison occidental",
+        "nom_eng": "Western Frisian",
+        "code_iso": "fy",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "50",
+        "token": "deb01027-f7b8-4ebf-99bb-8acbc290db60",
+        "nom_fr": "Irlandais",
+        "nom_eng": "Irish",
+        "code_iso": "ga",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "51",
+        "token": "b4a5078d-a062-4510-81f5-9de4d5f36ec7",
+        "nom_fr": "Écossais",
+        "nom_eng": "Scottish Gaelic",
+        "code_iso": "gd",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "52",
+        "token": "70be74f4-2568-4b1e-9232-41ef52429a8c",
+        "nom_fr": "Galicien",
+        "nom_eng": "Galician",
+        "code_iso": "gl",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "53",
+        "token": "f4b103da-2432-4ac8-b428-5490e6cfd9dc",
+        "nom_fr": "Guarani",
+        "nom_eng": "Guarani",
+        "code_iso": "gn",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "54",
+        "token": "ffe93fef-899d-481e-96a5-aab34415bf38",
+        "nom_fr": "Gujarati",
+        "nom_eng": "Gujarati",
+        "code_iso": "gu",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "55",
+        "token": "d54c095a-e259-4dea-ac18-05dd7c84e0fd",
+        "nom_fr": "Mannois",
+        "nom_eng": "Manx",
+        "code_iso": "gv",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "56",
+        "token": "a599fa6b-331d-40de-a83d-6900d56c7384",
+        "nom_fr": "Haoussa",
+        "nom_eng": "Hausa",
+        "code_iso": "ha",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "57",
+        "token": "ced5513f-de7f-440f-9dc8-6b51386e14be",
+        "nom_fr": "Hébreu",
+        "nom_eng": "Hebrew",
+        "code_iso": "he",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "58",
+        "token": "6d7edeea-cfd2-4b97-96d4-1910840c917d",
+        "nom_fr": "Hindi",
+        "nom_eng": "Hindi",
+        "code_iso": "hi",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "59",
+        "token": "16acfb20-e7f6-4799-a5d4-244b096728d7",
+        "nom_fr": "Hiri motu",
+        "nom_eng": "Hiri Motu",
+        "code_iso": "ho",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "60",
+        "token": "cd7f670a-c5f3-4a03-bfdd-ce7bb3f815a6",
+        "nom_fr": "Croate",
+        "nom_eng": "Croatian",
+        "code_iso": "hr",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "61",
+        "token": "4fd26777-2401-4945-b45f-5cb713bd5f06",
+        "nom_fr": "Créole haïtien",
+        "nom_eng": "Haitian",
+        "code_iso": "ht",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "62",
+        "token": "4a2439a4-c915-4b49-8504-d409d9950d45",
+        "nom_fr": "Hongrois",
+        "nom_eng": "Hungarian",
+        "code_iso": "hu",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "63",
+        "token": "5f06eba2-664b-4ccb-b59e-5c1875cfd10b",
+        "nom_fr": "Arménien",
+        "nom_eng": "Armenian",
+        "code_iso": "hy",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "64",
+        "token": "b38e37b0-15fb-4959-914d-c13a439c3503",
+        "nom_fr": "Héréro",
+        "nom_eng": "Herero",
+        "code_iso": "hz",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "65",
+        "token": "8ca61194-fad8-4056-8c01-6541d2e2cdea",
+        "nom_fr": "Interlingua",
+        "nom_eng": "Interlingua",
+        "code_iso": "ia",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "66",
+        "token": "7162c6ef-4f3a-4704-a4bb-516fb75098d3",
+        "nom_fr": "Indonésien",
+        "nom_eng": "Indonesian",
+        "code_iso": "id",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "67",
+        "token": "5e32e551-f50b-4d1b-be22-5e3413761ce6",
+        "nom_fr": "Occidental",
+        "nom_eng": "Interlingue",
+        "code_iso": "ie",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "68",
+        "token": "8d7d8879-0b22-4f6f-adb6-b353645cbccc",
+        "nom_fr": "Igbo",
+        "nom_eng": "Igbo",
+        "code_iso": "ig",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "69",
+        "token": "81e5eabf-adaa-40d2-8285-a524a88dbe8c",
+        "nom_fr": "Yi",
+        "nom_eng": "Sichuan Yi",
+        "code_iso": "ii",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "70",
+        "token": "4344b7c0-dab9-4fb7-9645-45e12f3cab98",
+        "nom_fr": "Inupiak",
+        "nom_eng": "Inupiaq",
+        "code_iso": "ik",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "71",
+        "token": "69f38b72-8e2a-41d6-85a3-d8dec2887d4c",
+        "nom_fr": "Ido",
+        "nom_eng": "Ido",
+        "code_iso": "io",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "72",
+        "token": "be4903fd-d351-4df7-94a7-03c7dc6de899",
+        "nom_fr": "Islandais",
+        "nom_eng": "Icelandic",
+        "code_iso": "is",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "73",
+        "token": "4ab2380e-e6e4-4add-a5c4-94c9a1a800db",
+        "nom_fr": "Italien",
+        "nom_eng": "Italian",
+        "code_iso": "it",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "74",
+        "token": "8f48f99c-2dca-46fe-bb86-89e43e6cfeb0",
+        "nom_fr": "Inuktitut",
+        "nom_eng": "Inuktitut",
+        "code_iso": "iu",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "75",
+        "token": "67f6009d-a7c1-4ec6-a9eb-498c949a8488",
+        "nom_fr": "Japonais",
+        "nom_eng": "Japanese",
+        "code_iso": "ja",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "76",
+        "token": "be71d37f-262a-4af1-a0e6-358ee50cda0e",
+        "nom_fr": "Javanais",
+        "nom_eng": "Javanese",
+        "code_iso": "jv",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "77",
+        "token": "89a4739c-3873-4c20-8c39-1f9e5698712c",
+        "nom_fr": "Géorgien",
+        "nom_eng": "Georgian",
+        "code_iso": "ka",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "78",
+        "token": "13153c20-4800-4435-b026-22aab79940ac",
+        "nom_fr": "Kikongo",
+        "nom_eng": "Kongo",
+        "code_iso": "kg",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "79",
+        "token": "c5cca23b-12fc-4b3f-ad6a-2878181c7924",
+        "nom_fr": "Kikuyu",
+        "nom_eng": "Kikuyu",
+        "code_iso": "ki",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "80",
+        "token": "dec410f7-efeb-4669-b50d-a94a29f9a1f0",
+        "nom_fr": "Kuanyama",
+        "nom_eng": "Kwanyama",
+        "code_iso": "kj",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "81",
+        "token": "d7a505bb-eb79-4282-af25-1769b2db572b",
+        "nom_fr": "Kazakh",
+        "nom_eng": "Kazakh",
+        "code_iso": "kk",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "82",
+        "token": "58810ba2-645a-4ad8-812b-0e7810b73787",
+        "nom_fr": "Groenlandais",
+        "nom_eng": "Greenlandic",
+        "code_iso": "kl",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "83",
+        "token": "8f83d499-1873-4409-b11c-152d0f8949ee",
+        "nom_fr": "Khmer",
+        "nom_eng": "Khmer",
+        "code_iso": "km",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "84",
+        "token": "876bef5d-6aed-4e29-b3a7-83b25b842489",
+        "nom_fr": "Kannada",
+        "nom_eng": "Kannada",
+        "code_iso": "kn",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "85",
+        "token": "647e6ed0-60ae-4470-aa74-b299fbde6d8b",
+        "nom_fr": "Coréen",
+        "nom_eng": "Korean",
+        "code_iso": "ko",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "86",
+        "token": "b33358ef-8353-4bcf-8bf9-58b8b4c1f0a4",
+        "nom_fr": "Kanouri",
+        "nom_eng": "Kanuri",
+        "code_iso": "kr",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "87",
+        "token": "fb065059-2624-41ce-b72b-c8cda7fc4a09",
+        "nom_fr": "Cachemiri",
+        "nom_eng": "Kashmiri",
+        "code_iso": "ks",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "88",
+        "token": "fab2ae8c-ba19-4ef9-9a9d-d03bb4647ace",
+        "nom_fr": "Kurde",
+        "nom_eng": "Kurdish",
+        "code_iso": "ku",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "89",
+        "token": "bf603d01-9e62-4ef5-883a-faaf9dc4e8b9",
+        "nom_fr": "Komi",
+        "nom_eng": "Komi",
+        "code_iso": "kv",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "90",
+        "token": "fff2cc1a-cf31-4fa2-a649-34d0d8059dfd",
+        "nom_fr": "Cornique",
+        "nom_eng": "Cornish",
+        "code_iso": "kw",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "91",
+        "token": "126c30c6-49b3-49cd-84e6-9f8a577b79b2",
+        "nom_fr": "Kirghiz",
+        "nom_eng": "Kirghiz",
+        "code_iso": "ky",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "92",
+        "token": "f020807f-2cfc-4047-92c8-9993b5ac2061",
+        "nom_fr": "Latin",
+        "nom_eng": "Latin",
+        "code_iso": "la",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "93",
+        "token": "8fac17f7-36c3-4736-8557-bc142fb4c203",
+        "nom_fr": "Luxembourgeois",
+        "nom_eng": "Luxembourgish",
+        "code_iso": "lb",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "94",
+        "token": "9660111c-51ba-4680-b8a8-51b0386bf1a1",
+        "nom_fr": "Ganda",
+        "nom_eng": "Ganda",
+        "code_iso": "lg",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "95",
+        "token": "9b8a42e6-8328-48ae-a836-866aeedb2047",
+        "nom_fr": "Limbourgeois",
+        "nom_eng": "Limburgish",
+        "code_iso": "li",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "96",
+        "token": "34682a91-c828-4c88-b5f5-a833bcb53c6a",
+        "nom_fr": "Lingala",
+        "nom_eng": "Lingala",
+        "code_iso": "ln",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "97",
+        "token": "56b63bc3-c020-41e1-a7e7-bfa388095cd6",
+        "nom_fr": "Lao",
+        "nom_eng": "Lao",
+        "code_iso": "lo",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "98",
+        "token": "29227c8c-0f82-4f52-8122-6d0abc909bd6",
+        "nom_fr": "Lituanien",
+        "nom_eng": "Lithuanian",
+        "code_iso": "lt",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "99",
+        "token": "ff9f99b9-a40f-4f40-9ebf-bcedc0d750a3",
+        "nom_fr": "Luba",
+        "nom_eng": "Luba",
+        "code_iso": "lu",
+        "created_at": "2021-03-29 10:36:53",
+        "active": "0"
+    },
+    {
+        "id": "100",
+        "token": "58fa7c23-2f25-452d-b35c-29f6d53e37a0",
+        "nom_fr": "Letton",
+        "nom_eng": "Latvian",
+        "code_iso": "lv",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "101",
+        "token": "6c4785e9-5995-4222-92c7-6aea36b452f4",
+        "nom_fr": "Malgache",
+        "nom_eng": "Malagasy",
+        "code_iso": "mg",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "102",
+        "token": "a7520aa8-17a8-49ce-b2a7-4cf3ed5dcbec",
+        "nom_fr": "Marshallais",
+        "nom_eng": "Marshallese",
+        "code_iso": "mh",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "103",
+        "token": "adbcd2a9-a574-4887-95b8-b49b3486f0dc",
+        "nom_fr": "Maori de Nouvelle-Zélande",
+        "nom_eng": "Māori",
+        "code_iso": "mi",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "104",
+        "token": "742f3fc3-013c-473d-ae18-0d18cc1c442f",
+        "nom_fr": "Macédonien",
+        "nom_eng": "Macedonian",
+        "code_iso": "mk",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "105",
+        "token": "53c68a7d-9064-483b-b740-1e5cd40bd21b",
+        "nom_fr": "Malayalam",
+        "nom_eng": "Malayalam",
+        "code_iso": "ml",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "106",
+        "token": "4af8da7d-0e6c-4311-838f-6453b39e7281",
+        "nom_fr": "Mongol",
+        "nom_eng": "Mongolian",
+        "code_iso": "mn",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "107",
+        "token": "17ad6046-a8cd-4f49-91be-68464ca11737",
+        "nom_fr": "Moldave",
+        "nom_eng": "Moldavian",
+        "code_iso": "mo",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "108",
+        "token": "87cdf8ec-51ab-46c4-96e5-597adaec6073",
+        "nom_fr": "Marathi",
+        "nom_eng": "Marathi",
+        "code_iso": "mr",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "109",
+        "token": "3a92176b-9a1e-4e20-ba4e-0610e95b7cb9",
+        "nom_fr": "Malais",
+        "nom_eng": "Malay",
+        "code_iso": "ms",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "110",
+        "token": "d50e82e7-4c21-4578-a011-66311c64534e",
+        "nom_fr": "Maltais",
+        "nom_eng": "Maltese",
+        "code_iso": "mt",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "111",
+        "token": "29a30de9-437f-4ebc-bed2-60b4d5911ba9",
+        "nom_fr": "Birman",
+        "nom_eng": "Burmese",
+        "code_iso": "my",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "112",
+        "token": "ae1a2085-18cf-4a4e-8386-a23ade369827",
+        "nom_fr": "Nauruan",
+        "nom_eng": "Nauru",
+        "code_iso": "na",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "113",
+        "token": "4f430cda-37ef-4cea-a82d-465f97ed26d0",
+        "nom_fr": "Norvégien Bokmål",
+        "nom_eng": "Norwegian Bokmål",
+        "code_iso": "nb",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "114",
+        "token": "8a4ce6be-a38e-4391-b5c6-fe0fa50855d1",
+        "nom_fr": "Sindebele",
+        "nom_eng": "North Ndebele",
+        "code_iso": "nd",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "115",
+        "token": "a093dace-6412-4b80-988e-e2305f44a8ae",
+        "nom_fr": "Népalais",
+        "nom_eng": "Nepali",
+        "code_iso": "ne",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "116",
+        "token": "ecb57db7-27a5-4672-9a33-5e6c154fd222",
+        "nom_fr": "Ndonga",
+        "nom_eng": "Ndonga",
+        "code_iso": "ng",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "117",
+        "token": "fec430d8-163d-4324-8f54-4c3b1d20a65a",
+        "nom_fr": "Néerlandais",
+        "nom_eng": "Dutch",
+        "code_iso": "nl",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "118",
+        "token": "382e3856-21bc-486d-90b7-d9d5cce40d25",
+        "nom_fr": "Norvégien Nynorsk",
+        "nom_eng": "Norwegian Nynorsk",
+        "code_iso": "nn",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "119",
+        "token": "b8d3bbcb-8206-46d6-9f9c-727844097943",
+        "nom_fr": "Norvégien",
+        "nom_eng": "Norwegian",
+        "code_iso": "no",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "120",
+        "token": "f184d74d-e31f-4306-9e72-356a9eadde78",
+        "nom_fr": "Nrebele",
+        "nom_eng": "South Ndebele",
+        "code_iso": "nr",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "121",
+        "token": "703784ec-eff7-4c25-bb51-f18648dd2cd3",
+        "nom_fr": "Navajo",
+        "nom_eng": "Navajo",
+        "code_iso": "nv",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "122",
+        "token": "6046fc78-10ee-4c3c-8492-8b9c66db20d4",
+        "nom_fr": "Chichewa",
+        "nom_eng": "Chichewa",
+        "code_iso": "ny",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "123",
+        "token": "c776d3bb-e7e2-461d-99aa-aa3740d4b70e",
+        "nom_fr": "Occitan",
+        "nom_eng": "Occitan",
+        "code_iso": "oc",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "124",
+        "token": "f90d7834-28cc-4e95-9788-bd5288b56b27",
+        "nom_fr": "Ojibwé",
+        "nom_eng": "Ojibwa",
+        "code_iso": "oj",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "125",
+        "token": "62b4bbea-bb5a-4951-8ed2-05b680739928",
+        "nom_fr": "Oromo",
+        "nom_eng": "Oromo",
+        "code_iso": "om",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "126",
+        "token": "1c85b073-d4c9-4e17-8cd1-14c5b3a5bfd9",
+        "nom_fr": "Oriya",
+        "nom_eng": "Oriya",
+        "code_iso": "or",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "127",
+        "token": "1a854860-9796-4f25-aa18-2be70b00d9be",
+        "nom_fr": "Ossète",
+        "nom_eng": "Ossetian",
+        "code_iso": "os",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "128",
+        "token": "a0f57fd2-9e41-460e-9d70-30c7ac360dda",
+        "nom_fr": "Pendjabi",
+        "nom_eng": "Panjabi",
+        "code_iso": "pa",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "129",
+        "token": "bd15be3a-3866-40a0-a34c-0ced6e07cfab",
+        "nom_fr": "Pali",
+        "nom_eng": "Pāli",
+        "code_iso": "pi",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "130",
+        "token": "90545e06-cbf2-4eae-9a16-80da8542db4f",
+        "nom_fr": "Polonais",
+        "nom_eng": "Polish",
+        "code_iso": "pl",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "131",
+        "token": "04a42720-3be3-4e18-8e7d-03450d6d5d47",
+        "nom_fr": "Pachto",
+        "nom_eng": "Pashto",
+        "code_iso": "ps",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "132",
+        "token": "a2501c5e-7b5f-499f-8d02-ad4353e99a92",
+        "nom_fr": "Portugais",
+        "nom_eng": "Portuguese",
+        "code_iso": "pt",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "133",
+        "token": "31f36797-210e-48ad-9a98-61fcdeeffa8f",
+        "nom_fr": "Quechua",
+        "nom_eng": "Quechua",
+        "code_iso": "qu",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "134",
+        "token": "b373fe82-b808-4fc7-9909-ab548a41d825",
+        "nom_fr": "Créole Réunionnais",
+        "nom_eng": "Reunionese",
+        "code_iso": "rc",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "135",
+        "token": "6d293278-b8b5-45e9-812f-9955d0fcb4ca",
+        "nom_fr": "Romanche",
+        "nom_eng": "Romansh",
+        "code_iso": "rm",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "136",
+        "token": "e15aa9a9-3181-4dcc-8283-3002d91502e4",
+        "nom_fr": "Kirundi",
+        "nom_eng": "Kirundi",
+        "code_iso": "rn",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "137",
+        "token": "d3b17776-86c7-45d2-9d5c-d9a96b262b88",
+        "nom_fr": "Roumain",
+        "nom_eng": "Romanian",
+        "code_iso": "ro",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "138",
+        "token": "6a20d5d5-971d-48a7-8f79-df5be1aa29e0",
+        "nom_fr": "Russe",
+        "nom_eng": "Russian",
+        "code_iso": "ru",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "139",
+        "token": "3d1df6b7-050d-4196-a049-42a0fec840ba",
+        "nom_fr": "Kinyarwanda",
+        "nom_eng": "Kinyarwanda",
+        "code_iso": "rw",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "140",
+        "token": "abcafeb9-da5a-46d4-9be8-56fc10b8ed50",
+        "nom_fr": "Sanskrit",
+        "nom_eng": "Sanskrit",
+        "code_iso": "sa",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "141",
+        "token": "6951aded-bfa1-489a-a97f-1fa86591b7fb",
+        "nom_fr": "Sarde",
+        "nom_eng": "Sardinian",
+        "code_iso": "sc",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "142",
+        "token": "5172f9c3-f8ea-4c09-a928-c2c5cd6e67eb",
+        "nom_fr": "Sindhi",
+        "nom_eng": "Sindhi",
+        "code_iso": "sd",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "143",
+        "token": "e1e3e3f7-0ab7-41cf-8b4f-7287cac7b1e0",
+        "nom_fr": "Same du Nord",
+        "nom_eng": "Northern Sami",
+        "code_iso": "se",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "144",
+        "token": "223b5a13-9cad-43d9-aeb1-1b879e9acf84",
+        "nom_fr": "Sango",
+        "nom_eng": "Sango",
+        "code_iso": "sg",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "145",
+        "token": "3a105354-f06c-4041-b92e-54335396594a",
+        "nom_fr": "Serbo-croate",
+        "nom_eng": "Serbo-Croatian",
+        "code_iso": "sh",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "146",
+        "token": "ee0e85fa-1670-4749-8305-f57ede3ee324",
+        "nom_fr": "Cingalais",
+        "nom_eng": "Sinhalese",
+        "code_iso": "si",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "147",
+        "token": "899d555d-5c08-4024-be72-d5119bacd065",
+        "nom_fr": "Slovaque",
+        "nom_eng": "Slovak",
+        "code_iso": "sk",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "148",
+        "token": "ffa6a323-c062-4aad-ac78-7df3454af03c",
+        "nom_fr": "Slovène",
+        "nom_eng": "Slovenian",
+        "code_iso": "sl",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "149",
+        "token": "52ea861f-a9f5-4b3a-97a7-9f4cfd158987",
+        "nom_fr": "Samoan",
+        "nom_eng": "Samoan",
+        "code_iso": "sm",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "150",
+        "token": "4e87628b-bdaa-42a3-a340-df58bb92b0fb",
+        "nom_fr": "Shona",
+        "nom_eng": "Shona",
+        "code_iso": "sn",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "151",
+        "token": "dd9062ff-3466-4d07-909a-9ce7338c7094",
+        "nom_fr": "Somali",
+        "nom_eng": "Somali",
+        "code_iso": "so",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "152",
+        "token": "8d4e9435-f629-4136-8c31-887a862a2a5e",
+        "nom_fr": "Albanais",
+        "nom_eng": "Albanian",
+        "code_iso": "sq",
+        "created_at": "2021-03-29 10:36:54",
+        "active": "0"
+    },
+    {
+        "id": "153",
+        "token": "c5def579-4e73-4fc9-837a-80a63df8d661",
+        "nom_fr": "Serbe",
+        "nom_eng": "Serbian",
+        "code_iso": "sr",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "154",
+        "token": "1ead2fad-6b08-45bc-8419-cd473395b9cb",
+        "nom_fr": "Swati",
+        "nom_eng": "Swati",
+        "code_iso": "ss",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "155",
+        "token": "6266af2a-0953-46a7-ac2f-9d8bf79ede9f",
+        "nom_fr": "Sotho du Sud",
+        "nom_eng": "Sotho",
+        "code_iso": "st",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "156",
+        "token": "4df89c28-1e0e-42f6-baf5-c50322bd7d76",
+        "nom_fr": "Soundanais",
+        "nom_eng": "Sundanese",
+        "code_iso": "su",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "157",
+        "token": "8b1a6b5f-a3de-4b46-8da7-12b74237e20a",
+        "nom_fr": "Suédois",
+        "nom_eng": "Swedish",
+        "code_iso": "sv",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "158",
+        "token": "15b95b35-b77c-48a1-96e7-7f6405061d33",
+        "nom_fr": "Swahili",
+        "nom_eng": "Swahili",
+        "code_iso": "sw",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "159",
+        "token": "b557ef41-3dec-4a34-858c-318bb28a7ee7",
+        "nom_fr": "Tamoul",
+        "nom_eng": "Tamil",
+        "code_iso": "ta",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "160",
+        "token": "3a6ba5c0-a36e-4339-b83a-5e1d013d9fba",
+        "nom_fr": "Télougou",
+        "nom_eng": "Telugu",
+        "code_iso": "te",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "161",
+        "token": "5aa1c60f-5099-44d5-b13d-7223ca0c7cc4",
+        "nom_fr": "Tadjik",
+        "nom_eng": "Tajik",
+        "code_iso": "tg",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "162",
+        "token": "5f600661-f348-4de4-8a03-bc5cbf64ac00",
+        "nom_fr": "Thaï",
+        "nom_eng": "Thai",
+        "code_iso": "th",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "163",
+        "token": "19502b2e-09e4-4f43-8558-9f1339239742",
+        "nom_fr": "Tigrigna",
+        "nom_eng": "Tigrinya",
+        "code_iso": "ti",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "164",
+        "token": "913b5861-1ac6-4874-9139-11dc8a5180f6",
+        "nom_fr": "Turkmène",
+        "nom_eng": "Turkmen",
+        "code_iso": "tk",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "165",
+        "token": "597f5a35-31a8-4b9d-95dd-68a1e4815e63",
+        "nom_fr": "Tagalog",
+        "nom_eng": "Tagalog",
+        "code_iso": "tl",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "166",
+        "token": "7d041998-dccb-4e84-9561-48f25633dd38",
+        "nom_fr": "Tswana",
+        "nom_eng": "Tswana",
+        "code_iso": "tn",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "167",
+        "token": "eb75a8c8-0765-4ca8-944a-2407228f7d6b",
+        "nom_fr": "Tongien",
+        "nom_eng": "Tonga",
+        "code_iso": "to",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "168",
+        "token": "2fbf21dc-47ae-4670-a5a0-383773d59f1e",
+        "nom_fr": "Turc",
+        "nom_eng": "Turkish",
+        "code_iso": "tr",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "169",
+        "token": "a806f8a4-b05e-4be7-b734-eb91be9f075f",
+        "nom_fr": "Tsonga",
+        "nom_eng": "Tsonga",
+        "code_iso": "ts",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "170",
+        "token": "9875fa14-a437-407e-a8ac-1a6f52bcc196",
+        "nom_fr": "Tatar",
+        "nom_eng": "Tatar",
+        "code_iso": "tt",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "171",
+        "token": "483d631e-a756-46ca-b9d8-0a47eea8955c",
+        "nom_fr": "Twi",
+        "nom_eng": "Twi",
+        "code_iso": "tw",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "172",
+        "token": "6150b89f-d48f-44a4-8921-cde8edc30cf7",
+        "nom_fr": "Tahitien",
+        "nom_eng": "Tahitian",
+        "code_iso": "ty",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "173",
+        "token": "5172d933-a1ad-4442-8fa4-6314ce9fea97",
+        "nom_fr": "Ouïghour",
+        "nom_eng": "Uighur",
+        "code_iso": "ug",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "174",
+        "token": "b63d6ea5-8342-4aca-9d00-b28bc85bc1d5",
+        "nom_fr": "Ukrainien",
+        "nom_eng": "Ukrainian",
+        "code_iso": "uk",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "175",
+        "token": "f8aa89f7-7441-4296-b01e-07501b198b4b",
+        "nom_fr": "Ourdou",
+        "nom_eng": "Urdu",
+        "code_iso": "ur",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "176",
+        "token": "b0043863-32e7-4154-8507-d02e2ca2093a",
+        "nom_fr": "Ouzbek",
+        "nom_eng": "Uzbek",
+        "code_iso": "uz",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "177",
+        "token": "a6d7ebe6-6fd6-4e9a-9652-03657b1bf67f",
+        "nom_fr": "Venda",
+        "nom_eng": "Venda",
+        "code_iso": "ve",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "178",
+        "token": "a7b2e0fb-0a4c-4476-8457-da76bea5d0b8",
+        "nom_fr": "Vietnamien",
+        "nom_eng": "Viêt Namese",
+        "code_iso": "vi",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "179",
+        "token": "f3d1f166-c049-4d92-b128-8239c15fb94c",
+        "nom_fr": "Volapük",
+        "nom_eng": "Volapük",
+        "code_iso": "vo",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "180",
+        "token": "db1592f2-4fca-4319-bbd3-b6b2b399cb64",
+        "nom_fr": "Wallon",
+        "nom_eng": "Walloon",
+        "code_iso": "wa",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "181",
+        "token": "3282b067-abaf-4fbb-9bc4-e665cfb7e62c",
+        "nom_fr": "Wolof",
+        "nom_eng": "Wolof",
+        "code_iso": "wo",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "182",
+        "token": "67402bba-eeb2-4ca6-9d3f-87b60f3838f0",
+        "nom_fr": "Xhosa",
+        "nom_eng": "Xhosa",
+        "code_iso": "xh",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "183",
+        "token": "0fec002b-a64c-48bf-a11e-a0bd450bd9c6",
+        "nom_fr": "Yiddish",
+        "nom_eng": "Yiddish",
+        "code_iso": "yi",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "184",
+        "token": "1c2c635e-0e2a-4a18-9215-fff534d6433c",
+        "nom_fr": "Yoruba",
+        "nom_eng": "Yoruba",
+        "code_iso": "yo",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "185",
+        "token": "03cb2e66-a7a9-4550-a848-b6842836593d",
+        "nom_fr": "Zhuang",
+        "nom_eng": "Zhuang",
+        "code_iso": "za",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "186",
+        "token": "152aac36-8f0b-4faf-a7e4-8a5d5b6fe269",
+        "nom_fr": "Chinois",
+        "nom_eng": "Chinese",
+        "code_iso": "zh",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    },
+    {
+        "id": "187",
+        "token": "2834b20a-8f9e-43a8-b29b-ac2cf9b9be06",
+        "nom_fr": "Zoulou",
+        "nom_eng": "Zulu",
+        "code_iso": "zu",
+        "created_at": "2021-03-29 10:36:55",
+        "active": "0"
+    }
+]
